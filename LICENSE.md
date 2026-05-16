@@ -1,4 +1,4 @@
-# 
+# exclusive scalping bot for derivatives | latency-optimization + multi-exchange-support offers the most advanced scalping bot for derivatives, with latency-optimization and
 
 
 
